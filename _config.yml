@@ -1,0 +1,66 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://czarparty.co" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Czarparty
+  avatar: XZR.png
+  gravatar: # email md5 hash
+  description: "Distributed Application Development on the Czarcoin Network" # used by search engines
+  
+  # Header and footer text
+  header_text: >
+    <h2>Czarparty Enables Global Asset Management for Everyone</h2>
+    <p class='lead'>Protection from the challenges of sociopolitical risk is standard within its open world forum.</p>
+  footer_text: >
+   © <a href="https://treefunder.co">Treefunder Incorporated</a>
+  
+  # Icons
+  rss: false
+  email_address: # full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket: 
+  dribbble: 
+  facebook: 
+  flickr: 
+  github: "czarparty"
+  google_plus: "+Czarparty"
+  instagram: 
+  linkedin:  # full URL
+  pinterest: 
+  reddit: "czarparty"
+  soundcloud: 
+  stack_exchange:  # full URL
+  steam: 
+  tumblr: 
+  twitter: "Czarpartydev"
+  wordpress: 
+  youtube: 
+  
+  # Scripts
+  google_analytics: "UA-21065583-20" # tracking id, e.g. "UA-000000-01"
+  disqus_shortname:
+  
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+  
+  # Colors, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
