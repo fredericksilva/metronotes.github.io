@@ -6,7 +6,7 @@ url: "https://czarparty.co" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Metronotes
-  avatar: XZR.png
+  avatar: XMN.png
   gravatar: # email md5 hash
   description: "Distributed Application Development on the Bitcoin Network" # used by search engines
   
