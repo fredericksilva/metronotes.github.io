@@ -5,15 +5,15 @@ url: "https://czarparty.co" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Czarparty
+  title: Metronotes
   avatar: XZR.png
   gravatar: # email md5 hash
-  description: "Distributed Application Development on the Czarcoin Network" # used by search engines
+  description: "Distributed Application Development on the Bitcoin Network" # used by search engines
   
   # Header and footer text
   header_text: >
-    <h2>Czarparty Enables Global Asset Management for Everyone</h2>
-    <p class='lead'>Protection from the challenges of sociopolitical risk is standard within its open world forum.</p>
+    <h2>Metronotes is better than paper money.</h2>
+    <p class='lead'>It has all of its qualities and none of its limits.</p>
   footer_text: >
    © <a href="https://treefunder.co">Treefunder Incorporated</a>
   
@@ -25,22 +25,22 @@ theme:
   dribbble: 
   facebook: 
   flickr: 
-  github: "czarparty"
-  google_plus: "+Czarparty"
+  github: "metronotes"
+  google_plus: 
   instagram: 
   linkedin:  # full URL
   pinterest: 
-  reddit: "czarparty"
+  reddit: "metronotes"
   soundcloud: 
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "Czarpartydev"
+  twitter: "MetronotesXMN"
   wordpress: 
   youtube: 
   
   # Scripts
-  google_analytics: "UA-21065583-20" # tracking id, e.g. "UA-000000-01"
+  google_analytics: "UA-21065583-27" # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
   
   # Localization strings
