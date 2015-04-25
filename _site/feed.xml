@@ -5,7 +5,16 @@
     <atom:link href="https://czarparty.co/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://czarparty.co/</link>
     <description>Distributed Application Development on the Bitcoin Network</description>
-    <pubDate>Mon, 30 Mar 2015 13:17:51 -0400</pubDate>
+    <pubDate>Sat, 25 Apr 2015 04:49:00 -0400</pubDate>
+    
+      <item>
+        <title>Metronotes Development Update 1</title>
+        <link>https://czarparty.co/blog/2015/05/01/Metronotes-Developmnet-Update-1.html</link>
+        <guid isPermaLink="true">https://czarparty.co/blog/2015/05/01/Metronotes-Developmnet-Update-1.html</guid>
+        <description>&lt;p&gt;The Metronotes Alpha has ended.  Source Code will remain publically available.  Work began on the latest update 2 months ago and is scheduled for release during the Summer of 2015.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>Metronotes Q&amp;A Draft</title>
