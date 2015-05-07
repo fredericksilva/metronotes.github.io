@@ -11,7 +11,7 @@ Bounty Requirements:
 
 Add the Metronotes Beta and/or Counterparty to Peatio.  Instructions on usage/features should also be provided.  Prove the work with a fork and receive the bounty in the form a Metronotes Beta Private Key
 
-For more information on peatio, fork it at https://github.com/peatio/peatio 
+For more information on peatio, visit https://github.com/peatio/peatio 
 
 The Metronotes Beta Software is located at https://github.com/metronotes-beta
 

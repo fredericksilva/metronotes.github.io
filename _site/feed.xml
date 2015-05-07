@@ -5,7 +5,7 @@
     <atom:link href="https://czarparty.co/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://czarparty.co/</link>
     <description>Distributed Application Development on the Bitcoin Network</description>
-    <pubDate>Fri, 08 May 2015 07:05:27 -0400</pubDate>
+    <pubDate>Thu, 07 May 2015 07:05:12 -0400</pubDate>
     
       <item>
         <title>Code Bounty</title>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;Add the Metronotes Beta and/or Counterparty to Peatio.  Instructions on usage/features should also be provided.  Prove the work with a fork and receive the bounty in the form a Metronotes Beta Private Key&lt;/p&gt;
 
-&lt;p&gt;For more information on peatio, fork it at https://github.com/peatio/peatio&lt;/p&gt;
+&lt;p&gt;For more information on peatio, visit https://github.com/peatio/peatio&lt;/p&gt;
 
 &lt;p&gt;The Metronotes Beta Software is located at https://github.com/metronotes-beta&lt;/p&gt;
 
