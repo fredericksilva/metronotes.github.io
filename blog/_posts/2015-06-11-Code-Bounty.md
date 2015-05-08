@@ -23,7 +23,7 @@ For more information on Metrocoin visit https://metrocoin.co or https://bitcoint
 
 Similar Build directions to get Metronotes running is at https://paytokens.co/blog/2015/03/19/how-to-create-a-paytokens-node.html
 
-In Addition to this bounty, the coder may receive an additional 100 Million XDV by also adding Divvy to Peatio.  The Proven fork will receive the bounty in the form a Divvy Private Key
+In Addition to this bounty, the coder may receive an additional 100 Million XDV by also adding Divvy to Peatio.  The Proven fork will receive the bounty in the form of a Divvy Private Key
 
 The Divvy Software is located at https://github.com/xdv/divvyd
 
