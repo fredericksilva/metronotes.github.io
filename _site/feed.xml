@@ -5,7 +5,40 @@
     <atom:link href="https://czarparty.co/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://czarparty.co/</link>
     <description>Distributed Application Development on the Bitcoin Network</description>
-    <pubDate>Sat, 25 Apr 2015 04:49:00 -0400</pubDate>
+    <pubDate>Sun, 10 May 2015 07:17:55 -0400</pubDate>
+    
+      <item>
+        <title>Code Bounty</title>
+        <link>https://czarparty.co/blog/2015/06/11/Code-Bounty.html</link>
+        <guid isPermaLink="true">https://czarparty.co/blog/2015/06/11/Code-Bounty.html</guid>
+        <description>&lt;p&gt;Bounty Size: 1 Billion XMN + 10 Thousand MET&lt;/p&gt;
+
+&lt;p&gt;Bounty Total Slots: 1&lt;/p&gt;
+
+&lt;p&gt;Bounty Requirements:&lt;/p&gt;
+
+&lt;p&gt;Add the Metronotes Beta and/or Counterparty to Peatio.  Instructions on usage/features should also be provided.  Prove the work with a fork and receive the bounty in the form a Metronotes Beta Private Key&lt;/p&gt;
+
+&lt;p&gt;The Metronotes Beta Software is located at https://github.com/metronotes-beta&lt;/p&gt;
+
+&lt;p&gt;The Metrocoin Beta Software is located at https://github.com/metrocoins/metrocoin&lt;/p&gt;
+
+&lt;p&gt;For more information on Metronotes visit https://metronotes.co or https://bitcointalk.org/index.php?topic=974486.0&lt;/p&gt;
+
+&lt;p&gt;For more information on Metrocoin visit https://metrocoin.co or https://bitcointalk.org/index.php?topic=1072230.0&lt;/p&gt;
+
+&lt;p&gt;Similar Build directions to get Metronotes running is at https://paytokens.co/blog/2015/03/19/how-to-create-a-paytokens-node.html&lt;/p&gt;
+
+&lt;p&gt;In Addition to this bounty, the coder may receive an additional 100 Million XDV by also adding Divvy to Peatio.  The Proven fork will receive the bounty in the form a Divvy Private Key&lt;/p&gt;
+
+&lt;p&gt;The Divvy Software is located at https://github.com/xdv/divvyd&lt;/p&gt;
+
+&lt;p&gt;FOr more information on Divvy visit https://xdv.co or https://bitcointalk.org/index.php?topic=1086233.0&lt;/p&gt;
+
+&lt;p&gt;All inquiries should be directed to @MetronotesXMN on Twitter&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>Metronotes Development Update 1</title>
